@@ -1,0 +1,26 @@
+body{
+    background-color: #eee
+}
+
+.fa{
+    color:#4183D7
+}
+.box-center{
+    background-color: #FFF;
+    padding: 60px 10px;
+    margin: 30px 0px;
+  
+
+}
+.box{
+    padding: 60px 0px;
+}
+.text{
+    margin: 20px 0px;
+}
+span{
+    font-size: 14px;
+}
+a{
+    border-bottom: 1px solid blue;
+}
